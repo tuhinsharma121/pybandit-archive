@@ -4,6 +4,7 @@ A Python library for all popular multiarmed bandit algorithms.
 
 
 ##Roadmap
+
 The following algorithms are currently being explored before we set a roadmap for the first release.
 
 1. Epsilon Bandit:
