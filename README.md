@@ -32,3 +32,19 @@ The following algorithms are currently being explored before we set a roadmap fo
 6. Collaborative Bandit
     1. COFIBA
     
+
+# To run the UNITTEST
+
+```
+python3 -m unittest
+```
+
+The output should be 
+
+```
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+```
